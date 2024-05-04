@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "PacMan",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "D:\\EpicGames\\UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"dotnet.defaultSolution": "disable"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
